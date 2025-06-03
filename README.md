@@ -1,29 +1,37 @@
+
 # Hi there 👋, I'm Rachel
 
-I'm a **Frontend Developer** passionate about creating interactive and user-friendly web applications.
-I enjoy building responsive designs, working with modern JavaScript frameworks, and keeping up with the latest trends in web development.
+I’m an **Operations Manager** learning to harness the power of **data** to improve workflows, logistics, and decision-making.
+I started my journey in **frontend development**, but these days, you’ll find me deep in spreadsheets, process planning, and asking, “What’s the data saying?”
 
 ### 🚀 About Me
-- 🔭 I’m currently working on improving my skills in [specific technologies, e.g., React, Tailwind CSS, TypeScript].
-- 🌱 I’m learning more about web performance optimization and advanced frontend architectures.
-- 👨‍💻 All of my projects are available [here](https://github.com/Rachel-Cellulose/).
-- 💬 Ask me about JavaScript, CSS, or anything frontend-related!
-- ⚡ Fun fact: [When i'm not working, I'm busy making my friends laugh because my life is full of silly dramas.
 
-### 🛠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks:** React, Vue, Next.js
-- **Styling:** Tailwind CSS, Bootstrap, Sass
-- **Tools:** Git, Webpack, Vite, Figma
-- **Version Control:** Git, GitHub
+* 🔭 Currently working as the Lead Operations Manager at a film production company.
+* 🌱 Learning **data analysis** with tools like **Excel**, **SQL**, **Power BI**, and **Python**.
+* 📊 Interested in how data can improve operational efficiency and help teams make smarter decisions.
+* 💬 Ask me about managing logistics, building scalable systems, or transitioning into tech from a non-traditional background.
+
+### 🛠 Tools & Skills
+
+* **Operations:** Team coordination, logistics, scheduling, stakeholder management
+* **Data:** Excel, Power BI, SQL, Python (beginner)
+* **Project Tools:** Trello, Asana, Notion, Google Workspace
+* **Tech Roots (still helpful):** HTML, CSS, JavaScript, React, Tailwind CSS
 
 ### 🏆 Projects
-- 🔗 [Project 1](https://github.com/Rachel-Cellulose/nextjs_movie_app):
-- 🔗 [Project 2](https://github.com/Rachel-Cellulose/dataepic_website): 
-- 🔗 [Project 3](https://github.com/Rachel-Cellulose/portfolio): 
 
-### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rachel-adegboyega/)
-- Email: [adegboyegaseunfunmi@gmail.com]
+* 🎬 Managed logistics for multiple high-pressure film productions, ensuring smooth operations on and off set.
+* 📊 Working on data projects like cancer stage classification and exploratory data analysis.
+* 💻 Built a few frontend projects in the past:
+
+  * [Next.js Movie App](https://github.com/Rachel-Cellulose/nextjs_movie_app)
+  * [Data Epic Website](https://github.com/Rachel-Cellulose/dataepic_website)
+  * [My Portfolio](https://github.com/Rachel-Cellulose/portfolio)
+
+### 📫 Let’s Connect
+
+* LinkedIn: [Rachel Adegboyega](https://www.linkedin.com/in/rachel-adegboyega/)
+* Email: [adegboyegaseunfunmi@gmail.com](mailto:adegboyegaseunfunmi@gmail.com)
 
 ---
+
